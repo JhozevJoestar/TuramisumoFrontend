@@ -9,6 +9,30 @@ Turamisumo - это Курорт, место отдыха, проект закл
  - 💯 Поддержка администрации
  - 🖥 Чат с поддержкой
 
+## Использованный стек технологий 🛠
+
+- MongoDB
+- Express
+- React
+- Node.js
+
+## Использованные библиотеки 📚
+
+- Redux toolkit
+- React-Router-DOM v6
+- Open-Weather
+- axios
+- Express-validator
+- yandex-maps
+- redux
+- Express
+- Mongoose
+- Icons
+- bcrypt
+- jwt
+- cors
+- dotenv
+
 #### Параметры запуска
 1. Склонируйте [этот репозиторий](https://github.com/Minkaill/TuramisumoFrontend.git) `git clone https://github.com/Minkaill/TuramisumoFrontend.git`
 2. Запустите `npm i` для установки необходимых дополнений
